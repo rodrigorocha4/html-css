@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste Imagens</title>
+</head>
+<body>
+    <h1>Teste com imagens dinamicas</h1>
+    <p>Um teste pessoal usando o gimp e imagens do google pra criar uma dinamica de mudança de imagens de acordo com o tamanho da tela.</p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="familia-p-novo.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="familia-m-novo.png" type="image/png">
+        <img src="familia-g-novo.png" alt="imagem flexível">
+    </picture>
+</body>
+</html>

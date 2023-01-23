@@ -1,0 +1,1732 @@
+<!DOCTYPE html>
+<html lang="pt" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+<title>⬅️ Emoji Seta Para A Esquerda</title>
+<link rel="stylesheet" href="/static/css/emojipedia.d982c63fa7f13210d9b6.css">
+<link rel="stylesheet" href="/static/react/main.871de7184757a91e369b.css">
+<link rel="apple-touch-icon" sizes="57x57" href="/static/img/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/static/img/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/static/img/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/static/img/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/static/img/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/static/img/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/static/img/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/static/img/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/img/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/static/img/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/static/img/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/static/img/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/static/img/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.webapp">
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.osd" title="Search Emojipedia">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/static/img/favicons/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="mask-icon" mask href="/static/img/emojipedia.svg" color="black">
+<link rel="stylesheet" href="https://a.pub.network/core/pubfig/cls.css">
+<script data-cfasync="false" type="text/javascript">
+  var freestar = freestar || {};
+  freestar.queue = freestar.queue || [];
+  freestar.config = freestar.config || {};
+  freestar.config.enabled_slots = [];
+  freestar.initCallback = function () { (freestar.config.enabled_slots.length === 0) ? freestar.initCallbackCalled = false : freestar.newAdSlots(freestar.config.enabled_slots) }
+</script>
+<script src="https://a.pub.network/emojipedia-org/pubfig.min.js" data-cfasync="false" async></script>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@emojipedia">
+<meta name="twitter:title" content="⬅️ Seta Para A Esquerda Emoji">
+<meta name="twitter:description" content="Significado do Emoji An arrow, pointing left. See the glossary for information on the term black in unicode character names. …">
+<meta name="twitter:image" content="https://emojipedia-us.s3.amazonaws.com/social/emoji/left-arrow.png">
+<meta property="og:site_name" content="Emojipedia">
+<meta property="og:url" content="/pt/seta-para-a-esquerda/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="⬅️ Seta Para A Esquerda Emoji">
+<meta property="og:description" content="Significado do Emoji An arrow, pointing left. See the glossary for information on the term black in unicode character names. …">
+<meta property="og:image" content="https://emojipedia-us.s3.amazonaws.com/social/emoji/left-arrow.png">
+<script>
+window.lazySizesConfig={loadMode:0};
+window.emojiData = {
+  code: '⬅️',
+  name: 'Seta Para A Esquerda',
+  slug: 'seta-para-a-esquerda',
+};
+    </script>
+<link rel="alternate" href="https://emojipedia.org/left-arrow/" hreflang="en">
+<link rel="alternate" href="https://emojipedia.org/bn/%E0%A6%AC%E0%A6%AE-%E0%A6%A4%E0%A6%B0/" hreflang="bn">
+<link rel="alternate" href="https://emojipedia.org/da/pil-mod-venstre/" hreflang="da">
+<link rel="alternate" href="https://emojipedia.org/de/pfeil-nach-links/" hreflang="de">
+<link rel="alternate" href="https://emojipedia.org/es/flecha-hacia-la-izquierda/" hreflang="es">
+<link rel="alternate" href="https://emojipedia.org/fr/fl%C3%A8che-gauche/" hreflang="fr">
+<link rel="alternate" href="https://emojipedia.org/hi/%E0%A4%AC%E0%A4%AF-%E0%A4%A4%E0%A4%B0/" hreflang="hi">
+<link rel="alternate" href="https://emojipedia.org/it/freccia-rivolta-a-sinistra/" hreflang="it">
+<link rel="alternate" href="https://emojipedia.org/ja/%E5%B7%A6%E7%9F%A2%E5%8D%B0/" hreflang="ja">
+<link rel="alternate" href="https://emojipedia.org/ko/%EC%A2%8C%ED%96%A5-%ED%99%94%EC%82%B4%ED%91%9C/" hreflang="ko">
+<link rel="alternate" href="https://emojipedia.org/mr/%E0%A4%A1%E0%A4%B5-%E0%A4%AC%E0%A4%A3/" hreflang="mr">
+<link rel="alternate" href="https://emojipedia.org/ms/anak-panah-ke-kiri/" hreflang="ms">
+<link rel="alternate" href="https://emojipedia.org/nl/pijl-naar-links/" hreflang="nl">
+<link rel="alternate" href="https://emojipedia.org/no/pil-venstre/" hreflang="no">
+<link rel="alternate" href="https://emojipedia.org/pt/seta-para-a-esquerda/" hreflang="pt">
+<link rel="alternate" href="https://emojipedia.org/sv/v%C3%A4nsterpil/" hreflang="sv">
+<link rel="alternate" href="https://emojipedia.org/ta/%E0%AE%87%E0%AE%9F%E0%AE%A4-%E0%AE%A8%E0%AE%95%E0%AE%95%E0%AE%AF-%E0%AE%85%E0%AE%AE%E0%AE%AA%E0%AE%95%E0%AE%95%E0%AE%B1/" hreflang="ta">
+<link rel="alternate" href="https://emojipedia.org/te/%E0%B0%8E%E0%B0%A1%E0%B0%AE-%E0%B0%AC%E0%B0%A3/" hreflang="te">
+<link rel="alternate" href="https://emojipedia.org/zh/%E5%90%91%E5%B7%A6%E7%AE%AD%E5%A4%B4/" hreflang="zh"><script>var jsonEmojipediaTranslations = [["en", "https://emojipedia.org/left-arrow/"], ["bn", "https://emojipedia.org/bn/%E0%A6%AC%E0%A6%AE-%E0%A6%A4%E0%A6%B0/"], ["da", "https://emojipedia.org/da/pil-mod-venstre/"], ["de", "https://emojipedia.org/de/pfeil-nach-links/"], ["es", "https://emojipedia.org/es/flecha-hacia-la-izquierda/"], ["fr", "https://emojipedia.org/fr/fl%C3%A8che-gauche/"], ["hi", "https://emojipedia.org/hi/%E0%A4%AC%E0%A4%AF-%E0%A4%A4%E0%A4%B0/"], ["it", "https://emojipedia.org/it/freccia-rivolta-a-sinistra/"], ["ja", "https://emojipedia.org/ja/%E5%B7%A6%E7%9F%A2%E5%8D%B0/"], ["ko", "https://emojipedia.org/ko/%EC%A2%8C%ED%96%A5-%ED%99%94%EC%82%B4%ED%91%9C/"], ["mr", "https://emojipedia.org/mr/%E0%A4%A1%E0%A4%B5-%E0%A4%AC%E0%A4%A3/"], ["ms", "https://emojipedia.org/ms/anak-panah-ke-kiri/"], ["nl", "https://emojipedia.org/nl/pijl-naar-links/"], ["no", "https://emojipedia.org/no/pil-venstre/"], ["pt", "https://emojipedia.org/pt/seta-para-a-esquerda/"], ["sv", "https://emojipedia.org/sv/v%C3%A4nsterpil/"], ["ta", "https://emojipedia.org/ta/%E0%AE%87%E0%AE%9F%E0%AE%A4-%E0%AE%A8%E0%AE%95%E0%AE%95%E0%AE%AF-%E0%AE%85%E0%AE%AE%E0%AE%AA%E0%AE%95%E0%AE%95%E0%AE%B1/"], ["te", "https://emojipedia.org/te/%E0%B0%8E%E0%B0%A1%E0%B0%AE-%E0%B0%AC%E0%B0%A3/"], ["zh", "https://emojipedia.org/zh/%E5%90%91%E5%B7%A6%E7%AE%AD%E5%A4%B4/"]];</script>
+
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2768678,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<script type="text/javascript">!(function(o,n){function $(){($.q=$.q||[]).push(arguments)}$.v=1,o[n]=o[n]||$})(window,String.fromCharCode(97,100,109,105,114,97,108));!(function(t,c,i){i=t.createElement(c),t=t.getElementsByTagName(c)[0],i.async=1,i.src="https://pocketfaucet.com/v2taxtPuf3eE-nnw5G1oIWYN7vPlk-uyQ735VpeBGQkGJqOCupGTISQs",t.parentNode.insertBefore(i,t)})(document,"script");;!(function(o,t,n,c){function e(n){(function(){try{return(localStorage.getItem("v4ac1eiZr0")||"").split(",")[4]>0}catch(o){}return!1})()&&(n=o[t].pubads())&&n.setTargeting("admiral-engaged","true")}(c=o[t]=o[t]||{}).cmd=c.cmd||[],typeof c.pubads===n?e():typeof c.cmd.unshift===n?c.cmd.unshift(e):c.cmd.push(e)})(window,"googletag","function");</script>
+<style>
+body > footer .content {
+  margin-bottom: 92px;
+}
+@media screen and (min-width: 728px) {
+  .page-header-part--ad.page-header-part--ad {
+    display: block;
+  }
+}
+</style>
+<script>
+      var clientWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+      var iAmMobile = clientWidth < 728;
+    </script>
+<script>
+  window.emojipedia =  window.emojipedia || {};
+  window.emojipedia.data = {"version": "1.1", "tabs": [{"label": "Categorias de Emojis", "entries": [{"slug": "/pt/pessoas", "name": "Smileys & Pessoas", "emoji": "\ud83d\ude03", "pageTitle": "\ud83d\ude03 Emojis de smileys & pessoas", "order": 100}, {"slug": "/pt/animais-e-natureza", "name": "Animais e Natureza", "emoji": "\ud83d\udc3b", "pageTitle": "Animais e Natureza", "order": 101}, {"slug": "/pt/comida-bebida", "name": "Comida e Bebida", "emoji": "\ud83c\udf54", "pageTitle": "\ud83c\udf54 Emoji de Comida e Bebida", "order": 102}, {"slug": "/pt/atividades", "name": "Atividades", "emoji": "\u26bd", "pageTitle": "Atividades", "order": 104}, {"slug": "/pt/viaggi-luoghi", "name": "Viagens e Locais", "emoji": "\ud83d\ude80", "pageTitle": "\ud83d\ude80 Emojis de Viagens e Locais", "order": 105}, {"slug": "/pt/objetos", "name": "Objetos", "emoji": "\ud83d\udca1", "pageTitle": "\ud83d\udca1 Emojis de objetos", "order": 106}, {"slug": "/pt/s\u00edmbolos", "name": "S\u00edmbolos", "emoji": "\ud83d\udc95", "pageTitle": "\ud83d\udc95 Emojis de S\u00edmbolos", "order": 107}, {"slug": "/pt/bandeiras", "name": "Bandeiras", "emoji": "\ud83c\udf8c", "pageTitle": "\ud83c\udf8c Bandeiras", "order": 108}], "order": 1}, {"label": "Fornecedores e plataformas", "entries": [{"slug": "/pt/apple", "name": "Apple", "emoji": "\ud83c\udf4f", "pageTitle": "\ud83c\udf4f Apple Emoji List \u2014\u00a0Emojis for iPhone, iPad and macOS [Updated: 2022]", "order": 1}, {"slug": "/pt/au-kddi", "name": "au by KDDI", "emoji": "\ud83d\uddb1\ufe0f", "pageTitle": "au by KDDI", "order": 25}, {"slug": "/pt/clubhouse", "name": "Clubhouse", "emoji": "\ud83c\udf99\ufe0f", "pageTitle": "\ud83c\udf99\ufe0f Clubhouse Emoji Meanings \ud83c\udf89", "order": 200}, {"slug": "/pt/discord", "name": "Discord", "emoji": "\ud83d\udc7e", "pageTitle": "Discord Emoji List [Updated 2022]", "order": 100}, {"slug": "/pt/docomo", "name": "Docomo", "emoji": "\ud83d\udd34", "pageTitle": "NTT Docomo", "order": 24}, {"slug": "/pt/dropbox", "name": "Dropbox", "emoji": "\ud83d\udce6", "pageTitle": "Dropbox Paper", "order": 100}, {"slug": "/pt/emojidex", "name": "emojidex", "emoji": "\ud83d\ude1c", "pageTitle": "emojidex Emoji List", "order": 19}, {"slug": "/pt/facebook", "name": "Facebook", "emoji": "\ud83d\udcd8", "pageTitle": "\ud83d\udc4d Facebook Emoji List \u2014\u00a0Emojis and Reacts for Facebook [Updated: April 2022]", "order": 7}, {"slug": "/pt/github", "name": "GitHub", "emoji": "\ud83d\ude3a", "pageTitle": "\ud83d\ude3a GitHub Emoji Support and Emoji Codes", "order": 100}, {"slug": "/pt/google", "name": "Google Noto Color Emoji", "emoji": "\ud83e\udd16", "pageTitle": "Google Emoji List \u2014\u00a0Emojis for Android [Updated: 2022]", "order": 2}, {"slug": "/pt/htc", "name": "HTC", "emoji": "\ud83d\udcf3", "pageTitle": "HTC Emoji List \u2014\u00a0Emojis for HTC Sense", "order": 22}, {"slug": "/pt/emojipedia", "name": "Imagens de amostra da Emojipedia", "emoji": "\ud83d\udcd9", "pageTitle": "Emojipedia Sample Images [Updated September 2021]", "order": 18}, {"slug": "/pt/instagram", "name": "Instagram", "emoji": "\ud83d\udcf8", "pageTitle": "\ud83d\udcf8 Instagram Emoji List \u2014 Emojis for Instagram [Updated: 2020]", "order": 100}, {"slug": "/pt/joypixels", "name": "JoyPixels", "emoji": "\ud83e\udd84", "pageTitle": "JoyPixels Emoji List (previously EmojiOne)", "order": 13}, {"slug": "/pt/lg", "name": "LG", "emoji": "\ud83d\ude09", "pageTitle": "LG Emoji List [Updated: September 2021]", "order": 21}, {"slug": "/pt/linkedin", "name": "LinkedIn", "emoji": "\ud83e\uddd1\u200d\ud83d\udcbc", "pageTitle": "\ud83e\uddd1\u200d\ud83d\udcbc  LinkedIn Emoji List", "order": 100}, {"slug": "/pt/messenger", "name": "Messenger", "emoji": "\ud83d\udd35", "pageTitle": "\ud83d\udcac Messenger Emoji List \u2014\u00a0All emojis for Facebook Messenger", "order": 20}, {"slug": "/pt/microsoft", "name": "Microsoft", "emoji": "\ud83e\ude9f", "pageTitle": "Microsoft Emoji List \u2014\u00a0Emojis for Windows 11, Windows 10 and Xbox", "order": 4}, {"slug": "/pt/microsoft-teams", "name": "Microsoft Teams", "emoji": "\ud83d\udc65", "pageTitle": "Microsoft Teams", "order": 9}, {"slug": "/pt/mozilla", "name": "Mozilla", "emoji": "\ud83e\udd8a", "pageTitle": "Mozilla Emoji List \u2014\u00a0Emojis for Firefox", "order": 60}, {"slug": "/pt/nintendo", "name": "Nintendo", "emoji": "\ud83c\udfb4", "pageTitle": "Nintendo Switch Emojis", "order": 100}, {"slug": "/pt/animated-noto-color-emoji", "name": "Noto Color Emoji, Animated", "emoji": "\ud83e\udd23", "pageTitle": "Noto Color Emoji, Animated", "order": 11}, {"slug": "/pt/noto-emoji", "name": "Noto Emoji Font", "emoji": "\ud83d\udd32", "pageTitle": "Noto Emoji", "order": 16}, {"slug": "/pt/openmoji", "name": "OpenMoji", "emoji": "\ud83d\ude4b", "pageTitle": "OpenMoji", "order": 17}, {"slug": "/pt/roblox", "name": "Roblox", "emoji": "\ud83d\udfe5", "pageTitle": "\ud83d\udfe5 Roblox Emoji Support", "order": 100}, {"slug": "/pt/samsung", "name": "Samsung", "emoji": "\u26ab", "pageTitle": "Samsung Emoji List \u2014\u00a0Emojis for Samsung Galaxy and Galaxy Note [Updated 2019]", "order": 3}, {"slug": "/pt/sina-weibo", "name": "Sina Weibo", "emoji": "\ud83d\udc41\ufe0f", "pageTitle": "Sina Weibo", "order": 100}, {"slug": "/pt/skype", "name": "Skype", "emoji": "\ud83d\udcde", "pageTitle": "Skype Emoticons", "order": 10}, {"slug": "/pt/slack", "name": "Slack", "emoji": "#\ufe0f\u20e3", "pageTitle": "#\ufe0f\u20e3 Slack Emoji List \u2014\u00a0Emoji Codes to use on Slack [Updated: 2021]", "order": 100}, {"slug": "/pt/snapchat", "name": "Snapchat", "emoji": "\ud83d\udc7b", "pageTitle": "\ud83d\udc7b Snapchat Emoji Meanings \u2014\u00a0\ud83d\udc9b Friend", "order": 0}, {"slug": "/pt/softbank", "name": "SoftBank", "emoji": "\ud83d\udcf2", "pageTitle": "\ud83d\udcf2 SoftBank Emoji List \u2014 Original Emojis from SoftBank in Japan", "order": 23}, {"slug": "/pt/sony", "name": "Sony Playstation", "emoji": "\ud83c\udfae", "pageTitle": "Sony Playstation Emoji Support", "order": 15}, {"slug": "/pt/telegram", "name": "Telegram", "emoji": "\ud83d\udce8", "pageTitle": "Telegram Emoji and Stickers", "order": 8}, {"slug": "/pt/tiktok", "name": "TikTok", "emoji": "\ud83c\udfb5", "pageTitle": "\u266a TikTok", "order": 0}, {"slug": "/pt/tinder", "name": "Tinder", "emoji": "\ud83d\udd25", "pageTitle": "\ud83d\udd25 Tinder", "order": 100}, {"slug": "/pt/toss-face", "name": "Toss Face (\ud1a0\uc2a4\ud398\uc774\uc2a4)", "emoji": "\ud83d\udcb3", "pageTitle": "Toss Face (\ud1a0\uc2a4\ud398\uc774\uc2a4)", "order": 14}, {"slug": "/pt/twitch", "name": "Twitch", "emoji": "\ud83d\udfe3", "pageTitle": "\ud83d\udcac Twitch Emote List", "order": 100}, {"slug": "/pt/twitter", "name": "Twitter", "emoji": "\ud83d\udc26", "pageTitle": "\ud83d\udc26 Twitter Emoji List \u2014\u00a0Emojis for Twitter and TweetDeck", "order": 6}, {"slug": "/pt/twitter-emoji-stickers", "name": "Twitter Emoji Stickers", "emoji": "\ud83d\udc13", "pageTitle": "Twitter Emoji Stickers", "order": 12}, {"slug": "/pt/viber", "name": "Viber", "emoji": "\ud83d\udfea", "pageTitle": "Viber Emoji List", "order": 100}, {"slug": "/pt/vinsmart", "name": "VinSmart", "emoji": "\u2668\ufe0f", "pageTitle": "VinSmart's \"VSmart\" Emojis", "order": 100}, {"slug": "/pt/vk", "name": "VK", "emoji": "\ud83d\udfe6", "pageTitle": "VK Emojis", "order": 100}, {"slug": "/pt/wechat", "name": "WeChat", "emoji": "\u2733\ufe0f", "pageTitle": "\u2733\ufe0f WeChat", "order": 100}, {"slug": "/pt/whatsapp", "name": "WhatsApp", "emoji": "\ud83d\udfe2", "pageTitle": "\ud83d\udcac WhatsApp Emoji Meanings \u2014\u00a0Emojis for WhatsApp on iPhone, Android and Web (Updated: April 2022)", "order": 5}, {"slug": "/pt/yo-status", "name": "Yo Status", "emoji": "\ud83d\udcac", "pageTitle": "Yo Status \u2014 Emojis on Yo Status App", "order": 100}, {"slug": "/pt/youtube", "name": "YouTube", "emoji": "\u25b6\ufe0f", "pageTitle": "\u25b6\ufe0f YouTube Emojis and Emotes", "order": 100}, {"slug": "/pt/zoom", "name": "Zoom", "emoji": "\ud83c\udfa6", "pageTitle": "Zoom Emoji Support", "order": 100}, {"slug": "/pt/mastodon", "name": "Mastodon", "emoji": "\ud83e\udda3", "pageTitle": "Mastodon", "order": 100}], "order": 2}, {"label": "Eventos & Temas", "entries": [{"slug": "/pt/5-de-maio", "name": "5 de Maio", "emoji": "\ud83c\uddf2\ud83c\uddfd", "pageTitle": "\ud83c\uddf2\ud83c\uddfd \ud83c\uddf2\ud83c\uddfd Cinco de Mayo", "order": 100}, {"slug": "/pt/a\u00e7\u00e3o-de-gra\u00e7as", "name": "A\u00e7\u00e3o de Gra\u00e7as", "emoji": "\ud83e\udd83", "pageTitle": "\ud83e\udd83 A\u00e7\u00e3o de Gra\u00e7as", "order": 100}, {"slug": "/pt/amor", "name": "Amor", "emoji": "\ud83d\udc91", "pageTitle": "\ud83d\udc91 Amor", "order": 100}, {"slug": "/pt/animais-de-estima\u00e7\u00e3o", "name": "Animais de estima\u00e7\u00e3o", "emoji": "\ud83d\udc36", "pageTitle": "\ud83d\udc36 Animais de estima\u00e7\u00e3o", "order": 100}, {"slug": "/pt/anivers\u00e1rio", "name": "Anivers\u00e1rio", "emoji": "\ud83c\udf82", "pageTitle": "\ud83c\udf82 Anivers\u00e1rio", "order": 100}, {"slug": "/pt/anivers\u00e1rio-da-rainha", "name": "Anivers\u00e1rio da rainha", "emoji": "\ud83d\udc51", "pageTitle": "\ud83d\udc51 Anivers\u00e1rio da rainha", "order": 100}, {"slug": "/pt/ano-novo-chin\u00eas", "name": "Ano Novo Chin\u00eas", "emoji": "\ud83d\udc30", "pageTitle": "\ud83d\udc09 Ano Novo Chin\u00eas", "order": 100}, {"slug": "/pt/apertos-de-m\u00e3o", "name": "Apertos de m\u00e3o", "emoji": "\ud83e\udd1d", "pageTitle": "\ud83e\udd1d Apertos de m\u00e3o", "order": 100}, {"slug": "/pt/beijos", "name": "Beijos", "emoji": "\ud83d\udc8f", "pageTitle": "\ud83d\udc8f Beijos", "order": 100}, {"slug": "/pt/black-friday", "name": "Black Friday", "emoji": "\ud83d\udecd\ufe0f", "pageTitle": "\ud83d\udecd Black Friday Emoji List", "order": 100}, {"slug": "/pt/black-lives-matter", "name": "Black Lives Matter", "emoji": "\u270a\ud83c\udfff", "pageTitle": "\u270a\ud83c\udfff Black Lives Matter", "order": 100}, {"slug": "/pt/campeonato-do-mundo", "name": "Campeonato do Mundo", "emoji": "\u26bd", "pageTitle": "\u26bd Campeonato do Mundo", "order": 100}, {"slug": "/pt/carnaval", "name": "Carnaval", "emoji": "\ud83c\udde7\ud83c\uddf7", "pageTitle": "\ud83c\udde7\ud83c\uddf7 Carnaval", "order": 100}, {"slug": "/pt/casais-com-cora\u00e7\u00f5es", "name": "Casais com cora\u00e7\u00f5es", "emoji": "\ud83d\udc91", "pageTitle": "\ud83d\udc91 Casais com cora\u00e7\u00f5es", "order": 100}, {"slug": "/pt/dia-do-casamento", "name": "Casamento", "emoji": "\ud83d\udc70", "pageTitle": "\ud83d\udc70 Casamento", "order": 100}, {"slug": "/pt/chanuc\u00e1", "name": "Chanuc\u00e1", "emoji": "\ud83d\udd4e", "pageTitle": "\ud83d\udd4e Chanuc\u00e1", "order": 100}, {"slug": "/pt/cora\u00e7\u00f5es", "name": "Cora\u00e7\u00f5es", "emoji": "\ud83d\udc95", "pageTitle": "\ud83d\udc95 Cora\u00e7\u00f5es", "order": 100}, {"slug": "/pt/coronav\u00edrus", "name": "Coronav\u00edrus", "emoji": "\ud83e\udda0", "pageTitle": "\ud83e\udda0 Coronav\u00edrus", "order": 100}, {"slug": "/pt/dia-da-bastilha", "name": "Dia da Bastilha", "emoji": "\ud83c\uddeb\ud83c\uddf7", "pageTitle": "\ud83c\uddeb\ud83c\uddf7 Dia da Bastilha", "order": 100}, {"slug": "/pt/dia-da-independ\u00eancia", "name": "Dia da Independ\u00eancia", "emoji": "\ud83c\uddfa\ud83c\uddf8", "pageTitle": "\ud83c\uddfa\ud83c\uddf8 Dia da Independ\u00eancia", "order": 100}, {"slug": "/pt/dia-da-m\u00e3e", "name": "Dia da M\u00e3e", "emoji": "\ud83e\udd31", "pageTitle": "\ud83e\udd31 Dia da M\u00e3e", "order": 100}, {"slug": "/pt/dia-da-terra", "name": "Dia da Terra", "emoji": "\ud83c\udf31", "pageTitle": "\ud83c\udf31 Dia da Terra", "order": 100}, {"slug": "/pt/dia-de-s\u00e3o-patr\u00edcio", "name": "Dia de S\u00e3o Patr\u00edcio", "emoji": "\u2618\ufe0f", "pageTitle": "\u2618\ufe0f Dia de S\u00e3o Patr\u00edcio", "order": 100}, {"slug": "/pt/dia-de-s\u00e3o-valentim", "name": "Dia de S\u00e3o Valentim", "emoji": "\ud83d\udc98", "pageTitle": "\ud83d\udc98 Dia de S\u00e3o Valentim", "order": 100}, {"slug": "/pt/dia-do-pai", "name": "Dia do Pai", "emoji": "\ud83d\udc68", "pageTitle": "\ud83d\udc68 Dia do Pai", "order": 100}, {"slug": "/pt/dia-dos-veteranos", "name": "Dia dos Veteranos", "emoji": "\ud83c\udf96\ufe0f", "pageTitle": "\ud83c\udf96\ufe0f Dia dos Veteranos", "order": 100}, {"slug": "/pt/dia-internacional-da-mulher", "name": "Dia Internacional da Mulher", "emoji": "\u2640\ufe0f", "pageTitle": "\u2640\ufe0f Dia Internacional da Mulher", "order": 100}, {"slug": "/pt/dia-mundial-do-emoji", "name": "Dia Mundial do Emoji", "emoji": "\ud83c\udf0e", "pageTitle": "\ud83c\udf0e Dia Mundial do Emoji", "order": 100}, {"slug": "/pt/dia-mundial-do-livro", "name": "Dia Mundial do Livro", "emoji": "\ud83d\udcd6", "pageTitle": "\ud83d\udcd6 Dia Mundial do Livro", "order": 100}, {"slug": "/pt/dia-nacional-da-austr\u00e1lia", "name": "Dia Nacional da Austr\u00e1lia", "emoji": "\ud83c\udde6\ud83c\uddfa", "pageTitle": "\ud83c\udde6\ud83c\uddfa Dia Nacional da Austr\u00e1lia", "order": 100}, {"slug": "/pt/dia-nacional-do-canad\u00e1", "name": "Dia Nacional do Canad\u00e1", "emoji": "\ud83c\udde8\ud83c\udde6", "pageTitle": "\ud83c\udde8\ud83c\udde6 Dia Nacional do Canad\u00e1", "order": 100}, {"slug": "/pt/diwali", "name": "Diwali", "emoji": "\ud83e\ude94", "pageTitle": "\ud83e\ude94 Diwali", "order": 100}, {"slug": "/pt/emoji-movie", "name": "Emoji Movie", "emoji": "\ud83c\udfa5", "pageTitle": "\ud83c\udfa5 Emoji Movie", "order": 100}, {"slug": "/pt/fam\u00edlias", "name": "Fam\u00edlias", "emoji": "\ud83d\udc6a", "pageTitle": "\ud83d\udc6a Fam\u00edlias", "order": 100}, {"slug": "/pt/festival-do-barco-drag\u00e3o", "name": "Festival do Barco-Drag\u00e3o", "emoji": "\ud83c\udde8\ud83c\uddf3", "pageTitle": "\ud83c\udde8\ud83c\uddf3 Festival do Barco-Drag\u00e3o", "order": 100}, {"slug": "/pt/festivus", "name": "Festivus", "emoji": "\ud83d\udcaa", "pageTitle": "\ud83d\ude24 Festivus Emoji List", "order": 100}, {"slug": "/pt/gestos", "name": "Gestos", "emoji": "\ud83d\udc4b", "pageTitle": "\ud83d\udc4b Gestos", "order": 100}, {"slug": "/pt/guy-fawkes", "name": "Guy Fawkes", "emoji": "\ud83d\udd25", "pageTitle": "\ud83d\udd25 Guy Fawkes Emoji List", "order": 100}, {"slug": "/pt/halloween", "name": "Halloween", "emoji": "\ud83c\udf83", "pageTitle": "\ud83c\udf83 Halloween", "order": 100}, {"slug": "/pt/happy", "name": "Happy", "emoji": "\ud83d\ude04", "pageTitle": "\ud83d\ude04 Happy", "order": 100}, {"slug": "/pt/holi", "name": "Holi", "emoji": "\ud83d\udd49\ufe0f", "pageTitle": "\ud83d\udd49\ufe0f Holi Emoji List", "order": 100}, {"slug": "/pt/inverno", "name": "Inverno", "emoji": "\u26c4", "pageTitle": "\u26c4 Inverno", "order": 100}, {"slug": "/pt/jogos-ol\u00edmpicos-de-inverno", "name": "Jogos Ol\u00edmpicos de Inverno", "emoji": "\ud83c\udfbf", "pageTitle": "\ud83c\udfbf Jogos Ol\u00edmpicos de Inverno", "order": 100}, {"slug": "/pt/licenciatura", "name": "Licenciatura", "emoji": "\ud83c\udf93", "pageTitle": "\ud83c\udf93 Licenciatura", "order": 100}, {"slug": "/pt/mardi-gras", "name": "Mardi Gras", "emoji": "\ud83c\udfad", "pageTitle": "Mardi Gras", "order": 100}, {"slug": "/pt/m\u00fasica", "name": "M\u00fasica", "emoji": "\ud83c\udfb8", "pageTitle": "\ud83c\udfb8 M\u00fasica", "order": 100}, {"slug": "/pt/natal", "name": "Natal", "emoji": "\ud83c\udf85", "pageTitle": "\ud83c\udf85 Natal", "order": 100}, {"slug": "/pt/nsfw", "name": "NSFW - N\u00e3o Seguro para o Trabalho", "emoji": "\ud83d\udd1e", "pageTitle": "\ud83d\udd1e NSFW - N\u00e3o Seguro para o Trabalho", "order": 100}, {"slug": "/pt/olimp\u00edadas", "name": "Olimp\u00edadas", "emoji": "\ud83c\udfca", "pageTitle": "\ud83c\udfca Olimp\u00edadas", "order": 100}, {"slug": "/pt/orgulho-lgbt", "name": "Orgulho LGBT", "emoji": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08", "pageTitle": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Orgulho LGBTQ", "order": 100}, {"slug": "/pt/outono", "name": "Outono", "emoji": "\ud83c\udf42", "pageTitle": "\ud83c\udf42 Outono", "order": 100}, {"slug": "/pt/p\u00e1scoa", "name": "P\u00e1scoa", "emoji": "\ud83d\udc30", "pageTitle": "\ud83d\udc30 P\u00e1scoa", "order": 100}, {"slug": "/pt/pessoas-de-m\u00e3os-dadas", "name": "Pessoas de m\u00e3os dadas", "emoji": "\ud83d\udc6b", "pageTitle": "\ud83d\udc6b Pessoas de m\u00e3os dadas", "order": 100}, {"slug": "/pt/primavera", "name": "Primavera", "emoji": "\ud83c\udf31", "pageTitle": "\ud83c\udf31 Primavera", "order": 100}, {"slug": "/pt/purim", "name": "Purim", "emoji": "\ud83c\udfad", "pageTitle": "\ud83c\udfad Purim", "order": 100}, {"slug": "/pt/420", "name": "Quatro Vinte / 420", "emoji": "\ud83c\udf3f", "pageTitle": "\ud83c\udf3f Quatro Vinte / 420", "order": 100}, {"slug": "/pt/ramadan", "name": "Ramadan", "emoji": "\u262a\ufe0f", "pageTitle": "\u262a\ufe0f Ramadan Emoji List", "order": 100}, {"slug": "/pt/super-bowl", "name": "Super Bowl", "emoji": "\ud83c\udfc8", "pageTitle": "\ud83c\udfc8 Super Ta\u00e7a", "order": 100}, {"slug": "/pt/teletrabalho", "name": "Teletrabalho", "emoji": "\ud83c\udfe1", "pageTitle": "\ud83c\udfe1 Teletrabalho", "order": 100}, {"slug": "/pt/triste", "name": "Triste", "emoji": "\ud83d\ude1e", "pageTitle": "\ud83d\ude1e Triste", "order": 100}, {"slug": "/pt/ver\u00e3o", "name": "Ver\u00e3o", "emoji": "\u2600\ufe0f", "pageTitle": "\u2600\ufe0f Ver\u00e3o", "order": 100}, {"slug": "/pt/v\u00e9spera-de-ano-novo", "name": "V\u00e9spera de Ano Novo", "emoji": "\ud83c\udf8a", "pageTitle": "\ud83c\udf8a V\u00e9spera de Ano Novo", "order": 100}, {"slug": "/pt/jobs-roles", "name": "Jobs & Roles", "emoji": "\ud83e\uddd1\u200d\ud83d\udcbc", "pageTitle": "Jobs & Roles", "order": 100}], "order": 3}], "lang": "pt", "languages": [{"code": "en", "label": "English"}, {"code": "bn", "label": "\u09ac\u09be\u0982\u09b2\u09be"}, {"code": "da", "label": "Dansk"}, {"code": "de", "label": "Deutsch"}, {"code": "es", "label": "Espa\u00f1ol"}, {"code": "fr", "label": "Fran\u00e7ais"}, {"code": "hi", "label": "\u0939\u093f\u0902\u0926\u0940"}, {"code": "it", "label": "Italiano"}, {"code": "ja", "label": "\u65e5\u672c\u8a9e"}, {"code": "ko", "label": "\ud55c\uad6d\uc5b4"}, {"code": "mr", "label": "\u092e\u0930\u093e\u0920\u0940"}, {"code": "ms", "label": "Melayu"}, {"code": "nl", "label": "Nederlands"}, {"code": "no", "label": "Norsk"}, {"code": "pt", "label": "Portugu\u00eas"}, {"code": "sv", "label": "Svenska"}, {"code": "ta", "label": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"}, {"code": "te", "label": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"}, {"code": "zh", "label": "\u4e2d\u6587"}], "searchPath": "/search/?q=:keyword", "popularSearches": ["tears joy", "Apple emoji", "Red heart", "Smileys", "Heart Hands", "Fire"], "popular_emojis": [{"code": "\ud83e\udef6", "name": "M\u00e3os Em Cora\u00e7\u00e3o", "url": "/pt/m%C3%A3os-em-cora%C3%A7%C3%A3o/"}, {"code": "\u2764\ufe0f", "name": "Cora\u00e7\u00e3o Vermelho", "url": "/pt/cora%C3%A7%C3%A3o-vermelho/"}, {"code": "\u2728", "name": "Brilhos", "url": "/pt/brilhos/"}, {"code": "\ud83e\udd79", "name": "Cara A Conter As L\u00e1grimas", "url": "/pt/cara-a-conter-as-l%C3%A1grimas/"}, {"code": "\ud83c\udf89", "name": "Cone De Festa", "url": "/pt/cone-de-festa/"}], "translations": {"search.placeholder": "Pesquisar na Emojipedia", "search.popular": "Popular Searches", "search.mostPopular": "Mais Populares", "lang.language": "Idioma", "lang.languages": "Idiomas", "lang.current": "Em utiliza\u00e7\u00e3o:"}};
+  (jsonEmojipediaTranslations || []).forEach(function(item) {
+    window.emojipedia.data.languages.forEach(function(lang) {
+      if (lang.code === item[0]) {
+        lang.url = item[1];
+      }
+    });
+  });
+</script>
+</head>
+<body>
+<a href="/pt/" class="logo fallback-logo" title="Ir para a Página Inicial da Emojipedia">Emojipedia</a>
+<div id="react-root"></div>
+<div class="topMainAd">
+
+<div align="center" data-freestar-ad="__320x50" id="Emojipedia_MobWeb_320x50_1">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "Emojipedia_MobWeb_320x50_1", slotId: "Emojipedia_MobWeb_320x50_1" });
+  </script>
+</div>
+</div>
+<div class="page-header-part page-header-part--ad">
+<div class="container">
+<div class="ad ad-header">
+
+<div align="center" data-freestar-ad="__970x90" id="Emojipedia_Leaderboard_topcentre">
+<script data-cfasync="false" type="text/javascript">
+if (document.body.clientWidth >= 728) freestar.config.enabled_slots.push({ placementName: "Emojipedia_Leaderboard_topcentre", slotId: "Emojipedia_Leaderboard_topcentre" });
+  </script>
+</div>
+</div>
+</div>
+</div>
+<header class="page-header">
+<div class="container">
+<form method="get" action="/pt/search/" class="search-form">
+<label>
+<span class="sr-only">Pesquisar na Emojipedia:</span>
+<input type="search" name="q" placeholder="Pesquisar na Emojipedia" id="id_q">
+</label>
+<button class="search-form__button" aria-label="pesquisar">&#x1F50D;</button>
+</form>
+</div>
+</header>
+<div class="sponsor"><p>&nbsp;</p>
+<center><a href="Javascript:document.querySelector('.emoji-navbar-language-button').click()">🌐 1️⃣9️⃣ 💬🌎🌍🌏</a>&nbsp;<br />
+🇺🇸 🇬🇧 🇪🇸 🇲🇽 🇵🇹 🇧🇷 🇫🇷 🇩🇪 🇯🇵 🇨🇳 🇰🇷 🇮🇳</center>
+<p>&nbsp;</p><script>var withSponsorBar = true;</script></div>
+<div class="container">
+<div class="content">
+<article>
+<h1><span class="emoji">⬅️</span> Seta Para A Esquerda</h1>
+<section class="description">
+<h2>Significado do Emoji</h2>
+<p>An arrow, pointing left.</p>
+<p>See the glossary for information on the term&nbsp;<em><a href="/pt/gloss%C3%A1rio/#black" title="📖 Glossary">black</a></em>&nbsp;in unicode character names.</p>
+<p>
+<em>Seta Para A Esquerda</em> foi aprovado como parte de <a href="/pt/unicode-4.0/">Unicode 4.0</a> em 2003 e adicionado a <a href="/pt/emoji-1.0/">Emoji 1.0</a> em 2015.
+</p>
+<h2>Copiar e Colar</h2>
+<form class="stacked no-top copy-paste">
+<label>
+<span class="copy-paste__label">Copie e cole este emoji:</span>
+<input type="text" value="⬅️" readonly class="emoji-copy copy-paste__data" id="emoji-copy">
+<button type="button" class="btn-clipboard copy-paste__btn" data-clipboard-target="#emoji-copy" style="width:auto;display:inline-block">Copiar</button>
+</label>
+</form>
+</section>
+<div class="ad ad-above-images">
+<div id="FreeStarVideoAdContainer">
+<div id="freestar-video-parent">
+<div id="freestar-video-child"></div>
+</div>
+</div>
+<style>
+@media screen and (min-width: 768px) {
+  #FreeStarVideoAdContainer {
+    max-width: 740px !important;
+  }
+}
+</style>
+
+<div align="center" data-freestar-ad="__336x280 __336x280" id="Emojipedia_MobWeb_above_images">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "Emojipedia_MobWeb_above_images", slotId: "Emojipedia_MobWeb_above_images" });
+  </script>
+</div>
+</div>
+<section class="vendor-list">
+<ul>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/apple/">Apple</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Apple iOS 15.4" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/apple/ios-15.4/">iOS 15.4</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/apple/ios-15.4/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/325/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/apple/ios-10.2/">iOS 10.2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/apple/ios-10.2/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/81/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/81/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/apple/ios-8.3/">iOS 8.3</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/apple/ios-8.3/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/51/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/51/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/apple/ios-6.0/">iOS 6.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/apple/ios-6.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/21/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/21/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/apple/ios-5.1/">iOS 5.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/apple/ios-5.1/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/126/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/126/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/apple/ios-5.0/">iOS 5.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/apple/ios-5.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/28/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/28/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/apple/ios-4.0/">iOS 4.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/apple/ios-4.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/125/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/125/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/apple/iphone-os-2.2/">iPhone OS 2.2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/apple/iphone-os-2.2/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/124/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/124/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Apple " width="32" height="32">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/google/">Google Noto Color Emoji</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/350/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/google/350/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Google Noto Color Emoji 15.0" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/google/15.0/">15.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/google/15.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/350/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/350/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Google Noto Color Emoji " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/google/android-12.0/">Android 12.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/google/android-12.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/298/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/298/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Google Noto Color Emoji " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/google/android-8.0/">Android 8.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/google/android-8.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/110/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/110/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Google Noto Color Emoji " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/google/android-7.0/">Android 7.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/google/android-7.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/56/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/56/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Google Noto Color Emoji " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/google/android-4.4/">Android 4.4</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/google/android-4.4/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/6/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/6/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Google Noto Color Emoji " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/google/android-4.3/">Android 4.3</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/google/android-4.3/seta-para-a-esquerda/">
+ <img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/55/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/55/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Google Noto Color Emoji " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/samsung/">Samsung</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/349/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/samsung/349/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Samsung One UI 5.0" width="108" height="108">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/samsung/one-ui-5.0/">One UI 5.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/samsung/one-ui-5.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/349/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/349/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/samsung/one-ui-1.0/">One UI 1.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/samsung/one-ui-1.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/161/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/161/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/samsung/experience-9.0/">Experience 9.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/samsung/experience-9.0/seta-para-a-esquerda/">
+ <img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/128/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/128/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/samsung/experience-8.0/">Experience 8.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/samsung/experience-8.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/93/leftwards-black-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/93/leftwards-black-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/samsung/touchwiz-7.1/">TouchWiz 7.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/samsung/touchwiz-7.1/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/78/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/78/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/samsung/touchwiz-7.0/">TouchWiz 7.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/samsung/touchwiz-7.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/75/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/75/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/samsung/touchwiz-2.0/">TouchWiz Nature UX 2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/samsung/touchwiz-2.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/45/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/45/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/microsoft/">Microsoft</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/319/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/microsoft/319/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Microsoft Windows 11 22H2" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/microsoft/windows-11-22H2/">Windows 11 22H2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/microsoft/windows-11-22H2/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/microsoft/319/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/319/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Microsoft " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/microsoft/windows-11-november-2021-update/">Windows 11 November 2021 Update</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/microsoft/windows-11-november-2021-update/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/microsoft/310/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Microsoft " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+ <li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/microsoft/windows-10-anniversary-update/">Windows 10 Anniversary Update</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/microsoft/windows-10-anniversary-update/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/microsoft/74/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/74/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Microsoft " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/microsoft/windows-10/">Windows 10</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/microsoft/windows-10/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/microsoft/54/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/54/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Microsoft " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/microsoft/windows-8.1/">Windows 8.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/microsoft/windows-8.1/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/microsoft/17/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/17/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Microsoft " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/microsoft/windows-8.0/">Windows 8.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/microsoft/windows-8.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/microsoft/58/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/58/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Microsoft " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/whatsapp/">WhatsApp</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/326/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/whatsapp/326/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em WhatsApp 2.22.8.79" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/whatsapp/2.22.8.79/">2.22.8.79</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/whatsapp/2.22.8.79/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/whatsapp/326/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/326/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em WhatsApp " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/whatsapp/2.17/">2.17</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/whatsapp/2.17/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/whatsapp/116/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/116/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em WhatsApp " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/twitter/">Twitter</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/322/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Twitter Twemoji 14.0" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/twitter/twemoji-14.0/">Twemoji 14.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/twitter/twemoji-14.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/322/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Twitter " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/twitter/twemoji-1.0/">Twemoji 1.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/twitter/twemoji-1.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/31/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/31/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Twitter " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/facebook/">Facebook</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/327/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/facebook/327/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Facebook 14.0" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/facebook/14.0/">14.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/facebook/14.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/facebook/327/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/327/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Facebook " width="60" height="60">
+</a>
+</div>
+</div>
+ </li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/facebook/4.0/">4.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/facebook/4.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/facebook/230/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/230/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Facebook " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/facebook/3.0/">3.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/facebook/3.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/facebook/158/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/158/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Facebook " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/facebook/2.0/">2.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/facebook/2.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/facebook/92/leftwards-black-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/92/leftwards-black-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Facebook " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/facebook/1.0/">1.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/facebook/1.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/facebook/11/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/11/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Facebook " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/microsoft-teams/">Microsoft Teams</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Microsoft Teams 1.0" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/microsoft-teams/1.0/">1.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/microsoft-teams/1.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Microsoft Teams " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/skype/">Skype</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.amazonaws.com/source/skype/289/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Skype Emoticons 1.2" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/skype/1.2/">Emoticons 1.2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/skype/1.2/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.amazonaws.com/source/skype/289/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Skype " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/twitter-emoji-stickers/">Twitter Emoji Stickers</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/348/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/348/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Twitter Emoji Stickers 13.1" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/twitter-emoji-stickers/13.1/">13.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/twitter-emoji-stickers/13.1/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/348/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/348/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Twitter Emoji Stickers " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/joypixels/">JoyPixels</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/340/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/joypixels/340/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em JoyPixels 7.0" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/joypixels/7.0/">7.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/joypixels/7.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/joypixels/340/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/340/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/joypixels/6.0/">6.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/joypixels/6.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/joypixels/257/left-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/257/left-arrow_2b05.png 2x" alt="Seta Para A Esquerda em JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/joypixels/5.5/">5.5</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/joypixels/5.5/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/joypixels/239/left-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/239/left-arrow_2b05.png 2x" alt="Seta Para A Esquerda em JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/joypixels/5.0/">5.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/joypixels/5.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emojione/211/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojione/211/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/joypixels/4.0/">4.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/joypixels/4.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emojione/151/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojione/151/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/joypixels/3.1/">3.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/joypixels/3.1/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emoji-one/104/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emoji-one/104/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/joypixels/3.0/">3.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/joypixels/3.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emoji-one/98/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emoji-one/98/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/joypixels/2.2/">2.2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/joypixels/2.2/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emoji-one/64/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emoji-one/64/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/joypixels/2.0/">2.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/joypixels/2.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emoji-one/44/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emoji-one/44/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/joypixels/1.0/">1.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/joypixels/1.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emoji-one/5/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emoji-one/5/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/toss-face/">Toss Face (토스페이스)</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/toss-face/342/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/toss-face/342/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Toss Face (토스페이스) 1.3" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/toss-face/1.3/">1.3</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/toss-face/1.3/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/toss-face/342/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/toss-face/342/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Toss Face (토스페이스) " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/toss-face/february-2022/">February 2022</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/toss-face/february-2022/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/toss-face/330/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/toss-face/330/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Toss Face (토스페이스) " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/sony/">Sony Playstation</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/sony/336/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Sony Playstation 13.1" width="36" height="36">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/sony/13.1/">13.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/sony/13.1/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/sony/336/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em Sony Playstation " width="36" height="36">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/noto-emoji/">Noto Emoji Font</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/noto-emoji/343/left-arrow_2b05-fe0f.jpg" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/noto-emoji/343/left-arrow_2b05-fe0f.jpg 2x" alt="Seta Para A Esquerda em Noto Emoji Font 15.0" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/noto-emoji/15.0/">15.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/noto-emoji/15.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/noto-emoji/343/left-arrow_2b05-fe0f.jpg" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/noto-emoji/343/left-arrow_2b05-fe0f.jpg 2x" alt="Seta Para A Esquerda em Noto Emoji Font " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+ <h2><a href="/pt/openmoji/">OpenMoji</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/338/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/openmoji/338/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em OpenMoji 14.0" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/openmoji/14.0/">14.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/openmoji/14.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/openmoji/338/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/338/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em OpenMoji " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/openmoji/1.0/">1.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/openmoji/1.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/openmoji/212/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/212/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em OpenMoji " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/emojidex/">emojidex</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/leftwards-black-arrow_2b05.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/emojidex/112/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em emojidex 1.0.34" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/emojidex/1.0.34/">1.0.34</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/emojidex/1.0.34/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emojidex/112/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em emojidex " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/emojidex/1.0.33/">1.0.33</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/emojidex/1.0.33/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emojidex/107/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/107/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em emojidex " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/emojidex/1.0.14/">1.0.14</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/emojidex/1.0.14/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emojidex/59/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/59/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em emojidex " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/messenger/">Messenger</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/leftwards-black-arrow_2b05.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/facebook/65/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Messenger 1.0" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/messenger/1.0/">1.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/messenger/1.0/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/facebook/65/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Messenger " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/lg/">LG</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/307/left-arrow_2b05-fe0f.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/lg/307/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em LG Velvet" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/lg/velvet/">Velvet</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/lg/velvet/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/lg/307/left-arrow_2b05-fe0f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/307/left-arrow_2b05-fe0f.png 2x" alt="Seta Para A Esquerda em LG " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/lg/g3/">G3</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/lg/g3/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/lg/34/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/34/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em LG " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/htc/">HTC</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/htc/37/leftwards-black-arrow_2b05.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/htc/37/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em HTC Sense 7" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/htc/sense-7/">Sense 7</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/htc/sense-7/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/htc/37/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/htc/37/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em HTC " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/softbank/">SoftBank</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/145/leftwards-black-arrow_2b05.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/softbank/145/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em SoftBank 2014" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/softbank/2014/">2014</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/softbank/2014/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/145/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/145/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em SoftBank " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/softbank/2008/">2008</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/softbank/2008/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/179/leftwards-black-arrow_2b05.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/179/leftwards-black-arrow_2b05.gif 2x" alt="Seta Para A Esquerda em SoftBank " width="48" height="48">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/softbank/2006/">2006</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/softbank/2006/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/175/leftwards-black-arrow_2b05.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/175/leftwards-black-arrow_2b05.gif 2x" alt="Seta Para A Esquerda em SoftBank " width="50" height="50">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/softbank/2004/">2004</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/softbank/2004/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/173/leftwards-black-arrow_2b05.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/173/leftwards-black-arrow_2b05.gif 2x" alt="Seta Para A Esquerda em SoftBank " width="48" height="48">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/softbank/2001/">2001</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/softbank/2001/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/172/leftwards-black-arrow_2b05.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/172/leftwards-black-arrow_2b05.gif 2x" alt="Seta Para A Esquerda em SoftBank " width="30" height="30">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/softbank/2000/">2000</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/softbank/2000/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/171/leftwards-black-arrow_2b05.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/171/leftwards-black-arrow_2b05.gif 2x" alt="Seta Para A Esquerda em SoftBank " width="22" height="22">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/softbank/1999/">1999</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/softbank/1999/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/170/leftwards-black-arrow_2b05.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/170/leftwards-black-arrow_2b05.gif 2x" alt="Seta Para A Esquerda em SoftBank " width="22" height="22">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/docomo/">Docomo</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/leftwards-black-arrow_2b05.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/docomo/205/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Docomo 2013" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/docomo/2013/">2013</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/docomo/2013/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/docomo/205/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Docomo " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/au-kddi/">au by KDDI</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/190/leftwards-black-arrow_2b05.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/au-kddi/190/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em au by KDDI Type F" width="120" height="120">
+ </div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/au-kddi/type-f/">Type F</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/au-kddi/type-f/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/au-kddi/190/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/190/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em au by KDDI " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/au-kddi/type-d-3/">Type D-3</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/au-kddi/type-d-3/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/au-kddi/194/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/194/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em au by KDDI " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/au-kddi/type-d-2/">Type D-2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/au-kddi/type-d-2/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/au-kddi/196/leftwards-black-arrow_2b05.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/196/leftwards-black-arrow_2b05.gif 2x" alt="Seta Para A Esquerda em au by KDDI " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/au-kddi/type-d-1/">Type D-1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/au-kddi/type-d-1/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/au-kddi/192/leftwards-black-arrow_2b05.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/192/leftwards-black-arrow_2b05.gif 2x" alt="Seta Para A Esquerda em au by KDDI " width="42" height="45">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/au-kddi/type-c-2/">Type C-2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/au-kddi/type-c-2/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/au-kddi/191/leftwards-black-arrow_2b05.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/191/leftwards-black-arrow_2b05.gif 2x" alt="Seta Para A Esquerda em au by KDDI " width="36" height="36">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/au-kddi/type-b-3/">Type B-3</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/au-kddi/type-b-3/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/au-kddi/189/leftwards-black-arrow_2b05.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/189/leftwards-black-arrow_2b05.gif 2x" alt="Seta Para A Esquerda em au by KDDI " width="45" height="36">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/au-kddi/type-b-2/">Type B-2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/au-kddi/type-b-2/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/au-kddi/188/leftwards-black-arrow_2b05.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/188/leftwards-black-arrow_2b05.gif 2x" alt="Seta Para A Esquerda em au by KDDI " width="46" height="38">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/au-kddi/type-a-2/">Type A-2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/au-kddi/type-a-2/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/au-kddi/187/leftwards-black-arrow_2b05.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/187/leftwards-black-arrow_2b05.gif 2x" alt="Seta Para A Esquerda em au by KDDI " width="40" height="28">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/pt/mozilla/">Mozilla</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/mozilla/36/leftwards-black-arrow_2b05.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/mozilla/36/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Mozilla Firefox OS 2.5" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/pt/mozilla/firefox-os-2.5/">Firefox OS 2.5</a></p>
+</div>
+<div class="vendor-image">
+<a href="/pt/mozilla/firefox-os-2.5/seta-para-a-esquerda/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/mozilla/36/leftwards-black-arrow_2b05.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/mozilla/36/leftwards-black-arrow_2b05.png 2x" alt="Seta Para A Esquerda em Mozilla " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</section>
+<div class="ad ad-below-images">
+
+<div align="center" data-freestar-ad="__336x280 __336x280" id="Emojipedia_Leaderboard_Under_Emojis">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "Emojipedia_Leaderboard_Under_Emojis", slotId: "Emojipedia_Leaderboard_Under_Emojis" });
+  </script>
+</div>
+</div>
+<section class="aliases">
+<h2>Também Conhecido Como</h2>
+<ul>
+<li><span class="emoji">⬅️</span> Arrow Pointing Left</li>
+<li><span class="emoji">⬅️</span> Left Arrow</li>
+</ul>
+</section>
+<section class="applenames">
+<h2>Nome na Apple</h2>
+<p><span class="emoji">⬅️</span> Left Arrow</p>
+</section>
+<h2>Pontos de código</h2>
+<ul>
+<li><a href="/pt/emoji/%E2%AC%85/">⬅ U+2B05</a></li>
+<li><a href="/pt/emoji/%EF%B8%8F/">️ U+FE0F</a></li>
+</ul>
+<h2>Códigos de acesso</h2>
+<ul class="shortcodes">
+<li><span class="shortcode">:arrow_left:</span>
+(<a href="/pt/discord/">Discord</a>, <a href="/pt/github/">Github</a>, <a href="/pt/slack/">Slack</a>)
+</li>
+<li><span class="shortcode">:left_arrow:</span>
+(<a href="/pt/shortcodes/">Emojipedia</a>)
+</li>
+</ul>
+<h2>Ver também</h2>
+<ul class="emoji-list">
+<li><a href="/pt/bot%C3%A3o-de-m%C3%BAsicas-aleat%C3%B3rias/"><span class="emoji">🔀</span> Botão De Músicas Aleatórias</a></li>
+</ul>
+<div data-trend></div>
+<h2>Navegar</h2>
+<ul>
+<li><a href="https://instagram.com/explore/tags/%E2%AC%85%EF%B8%8F/"><span class="emoji">⬅️</span> no Instagram</a></li>
+<li><a href="https://twitter.com/search?q=%E2%AC%85%EF%B8%8F"><span class="emoji">⬅️</span> no Twitter</a></li>
+<li><a href="https://en.wikipedia.org/wiki/%E2%AC%85%EF%B8%8F"><span class="emoji">⬅️</span> em Wikipedia</a></li>
+<li><a href="http://www.yelp.com/search?find_desc=%E2%AC%85%EF%B8%8F"><span class="emoji">⬅️</span> no Yelp</a></li>
+<li><a href="https://www.youtube.com/results?search_query=%E2%AC%85%EF%B8%8F"><span class="emoji">⬅️</span> no YouTube</a></li>
+<li><a href="https://trends.google.com/trends/explore?q=%E2%AC%85%EF%B8%8F"><span class="emoji">⬅️</span> no Google Trends</a></li>
+<li><a href="https://nomadlist.com/search/%E2%AC%85%EF%B8%8F"><span class="emoji">⬅️</span> no Nomad List</a></li>
+</ul>
+<h2>Propostas</h2>
+<ul class="emoji-list">
+<li>Proposta de Emoji Seta Para A Esquerda:
+<a href="https://www.unicode.org/cgi-bin/GetDocumentLink?L2/07-257" target="_blank">L2/07-257</a>,
+<a href="https://www.unicode.org/cgi-bin/GetDocumentLink?L2/09-026" target="_blank">L2/09-026</a>
+</li>
+</ul>
+<h2>Mais</h2>
+<ul class="emoji-list">
+<li><a href="/pt/random/"><span class="emoji">🔀</span> Surpreenda-me <span class="emoji">🧙‍♀️</span> <span class="emoji">🎰</span> <span class="emoji">🎱</span> <span class="emoji">🎲</span> <span class="emoji">🔮</span> <span class="emoji">✨</span></a></li>
+</ul>
+<form class="short-link stacked">
+<input type="text" value="http://📙.la/⬅️" readonly>
+</form>
+</article>
+<div class="ad ad-footer">
+
+<div align="center" data-freestar-ad="__336x280 __336x280" id="Emojipedia_MREC_bottom">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "Emojipedia_MREC_bottom", slotId: "Emojipedia_MREC_bottom" });
+  </script>
+</div>
+</div>
+</div>
+<div class="sidebar">
+<div class="block block--mp">
+<p class="show-more"><a href="/pt/most-popular/">Mostrar mais</a></p>
+<h2>Mais Populares</h2>
+<ul>
+<li><a href="/pt/m%C3%A3os-em-cora%C3%A7%C3%A3o/"><span class="emoji">🫶</span> Mãos Em Coração</a></li>
+<li><a href="/pt/cora%C3%A7%C3%A3o-vermelho/"><span class="emoji">❤️</span> Coração Vermelho</a></li>
+<li><a href="/pt/brilhos/"><span class="emoji">✨</span> Brilhos</a></li>
+<li><a href="/pt/cara-a-conter-as-l%C3%A1grimas/"><span class="emoji">🥹</span> Cara A Conter As Lágrimas</a></li>
+<li><a href="/pt/cone-de-festa/"><span class="emoji">🎉</span> Cone De Festa</a></li>
+</ul>
+</div>
+<div class="ad ad-sidebar ad-sidebar-1 block">
+
+<div align="center" data-freestar-ad="__320x100 __336x280" id="Emojipedia_MREC_topright">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "Emojipedia_MREC_topright", slotId: "Emojipedia_MREC_topright" });
+  </script>
+</div>
+</div>
+<div class="block block--topics">
+<p class="show-more"><a href="/pt/popular-topics/">Mostrar mais</a></p>
+<h2>T&oacute;picos populares</h2>
+<ul>
+<li><a href="https://emojipedia.org/pt/anivers%C3%A1rio/">🎂 Anivers&aacute;rio</a></li>
+<li><a href="https://emojipedia.org/pt/cora%C3%A7%C3%B5es/">💕 Cora&ccedil;&otilde;es</a></li>
+<li><a href="https://emojipedia.org/pt/orgulho-lgbt/">🏳️&zwj;🌈 Orgulho LGBT</a></li>
+<li><a href="https://emojipedia.org/pt/dia-do-casamento/">👰 Casamento</a></li>
+<li><a href="https://emojipedia.org/pt/teletrabalho/">🏡 Teletrabalho</a></li>
+</ul>
+</div>
+<div class="block block--latest">
+<p class="show-more"><a href="https://blog.emojipedia.org/">Mostrar mais</a></p>
+<h2>Not&iacute;cias Recentes&nbsp;(en)</h2>
+<ul>
+<li><a href="https://blog.emojipedia.org/twitters-glossy-emoji-stickers-on-emojipedia/"><span class="emoji">🎨</span> Twitter&#39;s Glossy Emoji Stickers on Emojipedia</a></li>
+<li><a href="https://blog.emojipedia.org/13-more-languages-supported-on-emojipedia/"><span class="emoji">🌐</span> 13 More Languages Supported on Emojipedia</a></li>
+<li><a href="https://blog.emojipedia.org/samsung-one-ui-5-0-emoji-changelog/"><span class="emoji">🫠</span> Samsung One UI 5.0 Emoji Changelog</a></li>
+<li><a href="https://blog.emojipedia.org/windows-11-2h22-emoji-changelog/"><span class="emoji">🪟</span> Windows 11 22H2 Emoji Changelog</a></li>
+<li><a href="https://blog.emojipedia.org/first-look-googles-new-emoji-bonanza/"><span class="emoji">🤯</span> First Look: Google&#39;s New Emoji Bonanza</a></li>
+</ul>
+</div>
+<div class="ad ad-sidebar ad-sidebar-2 block">
+
+<div align="center" data-freestar-ad="__320x100 __336x280" id="Emojipedia_MREC_lowerright">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "Emojipedia_MREC_lowerright", slotId: "Emojipedia_MREC_lowerright" });
+  </script>
+</div>
+</div>
+<div class="block block--upcoming">
+<p class="show-more"><a href="/pt/events/">Mostrar mais</a></p>
+<h2>Próximos eventos</h2>
+<ul>
+<li><a href="/pt/ano-novo-chin%C3%AAs/"><span class="emoji">🐰</span> Ano Novo Chinês</a></li>
+<li><a href="/pt/dia-nacional-da-austr%C3%A1lia/"><span class="emoji">🇦🇺</span> Dia Nacional da Austrália</a></li>
+<li><a href="/pt/super-bowl/"><span class="emoji">🏈</span> Super Bowl</a></li>
+<li><a href="/pt/dia-de-s%C3%A3o-valentim/"><span class="emoji">💘</span> Dia de São Valentim</a></li>
+<li><a href="/pt/mardi-gras/"><span class="emoji">🎭</span> Mardi Gras</a></li>
+</ul>
+</div>
+<div class="ad ad-sidebar ad-sidebar-3 block">
+
+<div align="center" data-freestar-ad="__336x280 __300x600" id="Emojipedia_HalfPageAd_bottomright">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "Emojipedia_HalfPageAd_bottomright", slotId: "Emojipedia_HalfPageAd_bottomright" });
+  </script>
+</div>
+</div>
+</div>
+</div>
+<footer class="page-footer v2">
+<nav>
+<div class="container">
+<div class="vendors">
+<h2>Fornecedores e plataformas</h2>
+<ul>
+<li><a href="/pt/apple/">Apple</a></li>
+<li><a href="/pt/google/">Google Noto Color Emoji</a></li>
+<li><a href="/pt/samsung/">Samsung</a></li>
+<li><a href="/pt/microsoft/">Microsoft</a></li>
+<li><a href="/pt/facebook/">Facebook</a></li>
+
+<li><a href="/pt/twitter/">Twitter</a></li>
+<li><a href="/pt/whatsapp/">WhatsApp</a></li>
+<li><a href="/pt/joypixels/">JoyPixels</a></li>
+<li><a href="/pt/snapchat/">Snapchat</a></li>
+<li><a href="/pt/tiktok/">TikTok</a></li>
+<li><a href="/pt/fornecedores/">Fornecedores e Plataformas</a></li>
+</ul>
+</div>
+<div class="unicode-version">
+<h2>Emojipedia</h2>
+<ul>
+<li><a href="/pt/acerca-de-emojipedia/">Acerca de Emojipedia</a></li>
+<li><a href="/pt/an%C3%BAncios/">Anúncios</a></li>
+<li><a href="/pt/contacto/">Contacto</a></li>
+<li><a href="/pt/emoji-wrap/">Emoji Wrap</a></li>
+<li><a href="/pt/botmoji/">Botmoji</a></li>
+<li><a href="/pt/licenciamento/">Licenciamento</a></li>
+<li><a href="/pt/significados/">Significados</a></li>
+<li><a href="/pt/informa%C3%A7%C3%A3o-%C3%A0-imprensa/">Informação à Imprensa</a></li>
+<li><a href="/pt/pol%C3%ADtica-de-privacidade/">Política de Privacidade</a></li>
+<li><a href="/pt/tos/">Terms of Service</a></li>
+<li><a href="/pt/mudar-o-idioma/">Mudar o idioma</a></li>
+</ul>
+</div>
+<div class="static-pages">
+<h2>Atualizações e Lançamentos</h2>
+<ul>
+<li><a href="/pt/novo/">Novo</a></li>
+<li><a href="/pt/rascunho-de-emojis/">Rascunho de emojis</a></li>
+<li><a href="/pt/cozinha-emoji/">Cozinha Emoji</a></li>
+<li><a href="/pt/vers%C3%B5es-emoji/">Versões Emoji</a></li>
+<li><a href="/pt/vers%C3%B5es-unicode/">Versões Unicode</a></li>
+<li><a href="/pt/propostas-de-emojis/">Propostas de Emojis</a></li>
+<li><a href="/pt/pedidos-de-emojis/">Pedidos de Emojis</a></li>
+</ul>
+</div>
+<div class="facts-figures">
+<h2>Fatos, Figuras e Guias</h2>
+<ul>
+<li><a href="/pt/perguntas-frequentes/">Perguntas Frequentes</a></li>
+<li><a href="/pt/estat%C3%ADsticas-de-emojis/">Estatísticas de Emojis</a></li>
+<li><a href="/pt/sequ%C3%AAncia-de-emojis/">Sequência de Emojis</a></li>
+<li><a href="/pt/emojis-g%C3%A9nero-neutro/">Emojis Género Neutro</a></li>
+<li><a href="/pt/gloss%C3%A1rio/">Glossário</a></li>
+<li><a href="/pt/dicas/">Dicas</a></li>
+<li><a href="/pt/posso-usar-emojis/">Posso Usar Emojis?</a></li>
+</ul>
+</div>
+<div class="f-logos-zedge">
+<p class="f-logo-zedge">
+ <a href="https://www.zedge.net/" target="_blank">
+<picture>
+<source srcset="/static/img/footer/logo_zedge_mobile_dark.png" media="(max-width: 600px) and (prefers-color-scheme: dark)">
+<source srcset="/static/img/footer/logo_zedge_mobile.png" media="(max-width: 600px)">
+<source srcset="/static/img/footer/zedge_with_claim_dark.png" media="(min-width: 601px) and (prefers-color-scheme: dark)">
+<img src="/static/img/footer/zedge_with_claim.png" alt="Logo Zedge (tm)" title="Zedge (tm) – everything you" /></a>
+</picture>
+</a>
+</p>
+<p class="f-branding-zedge"><p>Emojipedia is brought to you by Zedge, the world&#39;s #1 phone personalization app</p></p>
+<p class="f-logos-apps">
+<a href="https://itunes.apple.com/app/apple-store/id1086101495?pt=1393449&ct=1st_fold&mt=8" target="_blank">
+<picture>
+<source srcset="/static/img/footer/logo_apple_appstore_dark.svg" media="(prefers-color-scheme: dark)">
+<img src="/static/img/footer/logo_apple_appstore.svg" alt="Logo Apple AppStore" title="Download on the App Store" />
+</picture></a>
+<a href="https://play.google.com/store/apps/details?id=net.zedge.android&referrer=utm_source%3Dzedge_net%26utm_medium%3Dweb" target="_blank">
+<picture>
+<source srcset="/static/img/footer/logo_google_playstore_dark.svg" media="(prefers-color-scheme: dark)">
+<img src="/static/img/footer/logo_google_playstore.svg" alt="Logo Google Play" title="Get it on Google Play" />
+</picture>
+</a>
+<a href="https://www.zedge.net/ringtones-and-wallpapers" target="_blank">
+<picture>
+<source srcset="/static/img/footer/use_in_browser_dark.svg" media="(prefers-color-scheme: dark)">
+<img src="/static/img/footer/use_in_browser.svg" alt="Symbol Web Browser" title="Use in your Browser" />
+</picture>
+</a>
+</p>
+</div>
+</div>
+</nav>
+<div class="container">
+<div class="content">
+<div class="content-part content-left">
+<p>Todos os nomes de emojis s&atilde;o nomes da <a href="/pt/perguntas-frequentes/">Base de Dados de Caracteres Unicode ou do CLDR</a>. Os <a href="/pt/emoji/">pontos de c&oacute;digo</a> indicados fazem parte do <a href="https://en.wikipedia.org/wiki/Unicode_Standard">Padr&atilde;o Unicode</a>.</p>
+<p>Os direitos autorais das defini&ccedil;&otilde;es e descri&ccedil;&otilde;es adicionais dos emojis s&atilde;o propriedade da Emojipedia. Os direitos autorais das imagens dos emojis mostrados na Emojipedia s&atilde;o propriedade dos respetivos criadores, salvo indica&ccedil;&atilde;o ao contr&aacute;rio.</p>
+<p>A Emojipedia&reg; &eacute; <a href="https://home.unicode.org/membership/members/">um membro do Cons&oacute;rcio Unicode.</a></p>
+</div>
+<div class="content-part content-right">
+<p>Emojipedia&reg; &eacute; uma marca registada da <a href="https://www.zedge.net/">Zedge, Inc</a>; Apple&reg; &eacute; uma marca registada da Apple Inc; Microsoft&reg; e Windows&reg; s&atilde;o marcas registadas da Microsoft Corporation; Google&reg; e Android&trade; s&atilde;o marcas registadas ou marcas comerciais da Google Inc nos Estados Unidos e/ou noutros pa&iacute;ses.</p>
+<p>Siga a Emojipedia no <a href="https://twitter.com/emojipedia">Twitter</a>, <a href="https://www.facebook.com/Emojipedia/">Facebook</a>, <a href="https://www.instagram.com/emojipedia/">Instagram</a>, <a href="https://www.youtube.com/c/EmojipediaOrg/">YouTube</a>, <a href="https://mastodon.world/@emojipedia" rel="me">Mastodon</a>, ou <a href="https://tiktok.com/@emojipediaofficial">TikTok</a>. <a class="change-consent" onclick="window.__uspapi('displayUspUi');">Do Not Sell My Personal Information</a>. <a class="change-consent" onclick="window.__tcfapi('displayConsentUi', 2, function() {} );">Change Consent</a>. Veja <a href="https://help.zedge.net/hc/en-us/articles/360028513632">os termos de servi&ccedil;o</a> da Emojipedia aqui.</p>
+</div>
+</div>
+</div>
+</footer>
+<script src="/pt/jsi18n/"></script>
+<script src="/static/js/jquery.min.6df344b0ba8b9e20bc6f.js"></script>
+<script src="/static/js/site.90d9dfa6022d59f5969f.js"></script>
+<script src="/static/react/main.871de7184757a91e369b.js"></script>
+<script src="/static/js/lazy.84f9ca8494718b87cfc6.js"></script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-43649623-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+<script>(function(){var js = "window['__CF$cv$params']={r:'783ed45aaaa61175',m:'NIPg_Pxxj_HUTq3qajclYmEuE1VMVEaNXxSU9LmYUzM-1672781363-0-Aa3NxCgseurEGxpWBO3syo+PTzypF/u/vhaqW30BNIBTDUvqKdK2wG02aNltuZbAaXn2JeHfrF1nU+TLnzZkGDwhY6Dz0jU1x0IRL1Ow3QD64H8kmQqr0D5xyyqIS5Ud2GLhsWU8IAhNn4cZlG1AaqA=',s:[0xc4df68775d,0x64b9cb8a39],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
